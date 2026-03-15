@@ -1,2 +1,4 @@
 .idea/
 .venv/
+/remote_data
+.DS_Store
